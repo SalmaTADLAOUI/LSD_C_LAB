@@ -6,10 +6,7 @@ float *remontee(float A[N][N], float B[N], int n)
 {
 
   /******Implement the solution here******/
-  /***************************************/
-  
-  /***************************************/
-  return x;
+
 }
 
 float *gauss(float A[N][N] ,float B[N], int n)
